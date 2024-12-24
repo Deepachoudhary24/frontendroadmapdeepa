@@ -1,2 +1,2 @@
 # frontendroadmapdeepa
-This is a small Website which helps to guide you for learning complete frontend Development .
+This is a miniproject which will help you and guide you for learning complete frontend Development .
